@@ -3,7 +3,7 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import { action } from "@storybook/addon-actions";
 
-storiesOf("Hooks Test", module).add("Button", () =>
+storiesOf("Hooks Test|1/2/3", module).add("Button", () =>
   React.createElement(() => {
     const [state, setState] = React.useState(5);
     return (
