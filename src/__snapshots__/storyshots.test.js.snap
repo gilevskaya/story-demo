@@ -8,6 +8,14 @@ exports[`Storyshots Hooks Test Button 1`] = `
 </button>
 `;
 
+exports[`Storyshots Hooks Test|1/2/3 Button 1`] = `
+<button
+  onClick={[Function]}
+>
+  5
+</button>
+`;
+
 exports[`Storyshots Welcome Button 1`] = `
 <button
   onClick={[Function]}
